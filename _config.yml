@@ -11,6 +11,9 @@ baseurl: ""
 google_analytics: UA-135469787-1
 show_excerpts: false
 
+disqus:
+  shortname: blog-tagoo-dev
+
 minima:
   date_format: "%-d %b %Y"
 
